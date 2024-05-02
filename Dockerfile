@@ -1,5 +1,5 @@
 FROM vmlellis/mt5-base
-MAINTAINER Victor Lellis <vmlellis@gmail.com>
+MAINTAINER cloud-vps.pro <admin@cloud-vps.pro>
 
 USER xclient
 
